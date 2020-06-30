@@ -62,3 +62,5 @@ require (
 	mvdan.cc/lint v0.0.0-20170908181259-adc824a0674b // indirect
 	mvdan.cc/unparam v0.0.0-20190720180237-d51796306d8f
 )
+
+replace github.com/spf13/cobra => github.com/VilledeMontreal/cobra v0.0.6-0.20200629203744-5782fedb5fb1
